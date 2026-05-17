@@ -19,11 +19,7 @@ masthead_title           : " "
 
 author:
   avatar           : "profile.jpg"  
-  name             : "Abu Siddique"
-  bio              : "Associate Professor of Economics, Department of Economics, Royal Holloway University of London. Development, health, gender, and political economy."
-  location         : "London, UK"
-  employer         : "Royal Holloway University of London"
-  cv               : "/files/cv.pdf"
+
 
 # -----------------------------------------------------------------------------
 # Build settings
