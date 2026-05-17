@@ -1,0 +1,7 @@
+.author__avatar img,
+.sidebar .author__avatar img,
+.author__avatar > a > img {
+  border-radius: 0 !important;
+  max-width: 200px !important;
+  height: auto !important;
+}
