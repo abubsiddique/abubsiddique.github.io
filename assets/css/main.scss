@@ -35,6 +35,11 @@
   "vendor/font-awesome/brands"
 ;
 
+/* Keep profile photo square on all screen sizes */
+.sidebar .author__avatar img {
+  border-radius: 0 !important;
+}
+
 /* Make author photo readable on phones only */
 @media screen and (max-width: 767px) {
   .sidebar .author__avatar {
@@ -50,7 +55,6 @@
     max-width: 120px !important;
     object-fit: cover;
     object-position: center;
-    border-radius: 0;
   }
 
   .sidebar .author__content {
