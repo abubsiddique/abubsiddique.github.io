@@ -13,11 +13,11 @@ I am an Associate Professor of Economics at the [Department of Economics](https:
 I am also:
 
 - Research Associate at the [Institute for Fiscal Studies](https://ifs.org.uk/)
-- Invited Researcher at the [Abdul Latif Jameel Poverty Action Lab (J-PAL)](https://www.povertyactionlab.org/)
-- Research Affiliate at [IZA](https://www.iza.org/)
+- Invited Researcher at the [J-PAL](https://www.povertyactionlab.org/)
+- Research Affiliate at [IZA@LISER](https://www.iza.org/)
 - Associate Editor at [*Frontiers in Behavioral Economics* (Health Behaviors)](https://www.frontiersin.org/journals/behavioral-economics/sections/health-behaviors)
-- Guest Teacher at the [London School of Economics and Political Science](https://www.lse.ac.uk/international-development)
+- Guest Teacher at the [LSE](https://www.lse.ac.uk/international-development)
 
-My research is in development economics, with a focus on discrimination, gender, and human capital investments in low-income countries. Current projects span Bangladesh, Ghana, India, Malaysia, Pakistan, Mauritius, Trinidad and Tobago, Fiji, Cambodia, and Uganda.
+My research is in development economics, with a focus on discrimination, gender, and human capital investments in low-income countries.
 
 **Contact.** abu.siddique [at] rhul.ac.uk
