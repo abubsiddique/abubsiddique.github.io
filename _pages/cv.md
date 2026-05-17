@@ -26,8 +26,8 @@ author_profile: true
 ## Education
 
 - **2015 – 2019.** PhD Economics, [University of Southampton](http://www.southampton.ac.uk/).
-- **2014 – 2015.** MSc Economics & Econometrics, University of Southampton.
-- **2011 – 2014.** BSc (Econ) Economics, [Queen Mary University of London](http://www.qmul.ac.uk/).
+- **2014 – 2015.** MSc Economics & Econometrics, [University of Southampton](http://www.southampton.ac.uk/).
+- **2011 – 2014.** BSc Economics, [Queen Mary University of London](http://www.qmul.ac.uk/).
 
 ## Research Interests
 
