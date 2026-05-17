@@ -7,7 +7,7 @@ author_profile: true
 
 ## Lecturing
 
-**[Royal Holloway, University of London](https://www.royalholloway.ac.uk/)** — 2024–present
+**[Royal Holloway University of London](https://www.royalholloway.ac.uk/)** — 2024–present
 - Dissertation in Economics (UG/PG)
 - Economics of Inequality (UG)
 - Economics of Health (PG, 2024)
