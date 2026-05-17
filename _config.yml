@@ -23,11 +23,11 @@ author:
   bio              : "Associate Professor of Economics, Royal Holloway, University of London. Development, behavioral, and labor economics."
   location         : "London, UK"
   employer         : "Royal Holloway, University of London"
-  email            : "abu.siddique@rhul.ac.uk"
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_ID"   # <<< paste your Scholar URL
-  github           : "absidd-que"
-  orcid            : "https://orcid.org/YOUR_ORCID"                        # <<< optional
-  linkedin         : ""                                                    # <<< optional
+  email            : ""
+  googlescholar    : ""
+  github           : ""
+  orcid            : ""
+  linkedin         : ""
   cv               : "/files/cv.pdf"
 
 # -----------------------------------------------------------------------------
