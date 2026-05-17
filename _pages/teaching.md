@@ -12,6 +12,10 @@ author_profile: true
 - Economics of Inequality (UG)
 - Economics of Health (PG, 2024)
 
+**[LSE](https://www.lse.ac.uk/)** — 2025–present
+- Economic Development Policy II: Microeconomic Analysis (PG, 2026)
+- Foundations of Applied Econometrics for Economic Development Policy (PG, 2025)
+
 **[King's College London](https://www.kcl.ac.uk/)** — 2022–2023
 - Health Economics and Policy (PG)
 - Experimental Economics (UG tutorials)
