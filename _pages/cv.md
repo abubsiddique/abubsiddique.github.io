@@ -1,64 +1,34 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+[**Download full CV (PDF)**](/files/cv.pdf)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Current Positions and Affiliations
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **Jan 2024 – present.** Associate Professor of Economics (Senior Lecturer), [Department of Economics](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/economics/), [Royal Holloway, University of London](https://www.royalholloway.ac.uk/).
+- **Sep 2025 – present.** Guest Teacher, [London School of Economics and Political Science](https://www.lse.ac.uk/international-development).
+- **Jun 2024 – present.** Associate Editor, [*Frontiers in Behavioral Economics* (Health Behaviors)](https://www.frontiersin.org/journals/behavioral-economics/sections/health-behaviors).
+- **Sep 2023 – present.** Research Associate, [Institute for Fiscal Studies](https://ifs.org.uk/).
+- **Apr 2023 – present.** Research Affiliate, [IZA](https://www.iza.org/).
+- **Jan 2023 – present.** Invited Researcher, [J-PAL](https://www.povertyactionlab.org/).
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Past Positions
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Jan 2022 – Sep 2025.** External Research Fellow in Economics, [Professorship of Economics](https://eco.cs.tum.de/), TU Munich.
+- **Jan 2022 – Dec 2023.** Assistant Professor (Lecturer) of Economics and Policy, [Department of Political Economy](https://www.kcl.ac.uk/political-economy), King's College London.
+- **Jan 2019 – Dec 2021.** Postdoctoral Researcher in Economics, Professorship of Economics, TU Munich.
+- **Jul 2018 – Jun 2019.** Adjunct Fellow, [BRAC Institute of Governance and Development](http://bigd.bracu.ac.bd/).
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Education
+
+- **2015 – 2019.** PhD Economics, [University of Southampton](http://www.southampton.ac.uk/).
+- **2014 – 2015.** MSc Economics & Econometrics, University of Southampton.
+- **2011 – 2014.** BSc (Econ) Economics, [Queen Mary University of London](http://www.qmul.ac.uk/).
+
+## Research Interests
+
+Development Economics, Applied Microeconomics.
