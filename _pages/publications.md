@@ -7,10 +7,12 @@ author_profile: true
 
 ## Working Papers
 
-1. [**The Political Economy of Intergroup Contact: Evidence from Malaysia**](https://drive.google.com/file/d/1gey5gZjlhK_DB9K50eeImXXgWKaUSABR/view) (with [Chun Chee Kok](https://sites.google.com/view/chuncheekok), [Gedeon Lim](https://sites.google.com/view/gedeonlim/home), [Danial Shariat](https://are.berkeley.edu/user/13981), and [Shunsuke Tsuda](https://shunsuketsuda.com/)).<br>
+1. [**What Do Others Think? Norm Beliefs and Women’s Work in Pakistan**] (https://drive.google.com/file/d/1OyfbrqehKPj9ZKIwmpJ2zyj70Yx1ZDTi/view?usp=sharing) (with Hira Kaleem, Anri Sakakibara, and Waqar Wadho).<br>
+   
+3. [**The Political Economy of Intergroup Contact: Evidence from Malaysia**](https://drive.google.com/file/d/1gey5gZjlhK_DB9K50eeImXXgWKaUSABR/view) (with [Chun Chee Kok](https://sites.google.com/view/chuncheekok), [Gedeon Lim](https://sites.google.com/view/gedeonlim/home), [Danial Shariat](https://are.berkeley.edu/user/13981), and [Shunsuke Tsuda](https://shunsuketsuda.com/)).<br>
    *In submission.*
 
-2. [**Parents in the Classroom: Strengthening Government Capacity to Deliver Early Childhood Education**](https://ifs.org.uk/publications/parents-classroom-strengthening-government-capacity-deliver-early-childhood-education) (with [Bet Caeyers](https://www.cmi.no/staff/bet-caeyers), [Lina Cardona-Sosa](https://sites.google.com/site/linacardonasosa/home), [Sarah Cattan](https://sites.google.com/site/sjcattan/home), and [Sonya Krutikova](https://sites.google.com/view/sonyakrutikova/home)).<br>
+4. [**Parents in the Classroom: Strengthening Government Capacity to Deliver Early Childhood Education**](https://ifs.org.uk/publications/parents-classroom-strengthening-government-capacity-deliver-early-childhood-education) (with [Bet Caeyers](https://www.cmi.no/staff/bet-caeyers), [Lina Cardona-Sosa](https://sites.google.com/site/linacardonasosa/home), [Sarah Cattan](https://sites.google.com/site/sjcattan/home), and [Sonya Krutikova](https://sites.google.com/view/sonyakrutikova/home)).<br>
    *In submission.*
 
 
