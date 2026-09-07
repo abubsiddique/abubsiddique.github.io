@@ -17,7 +17,6 @@ I am also:
 - Invited Researcher at the [J-PAL](https://www.povertyactionlab.org/)
 - Research Affiliate at [IZA@LISER](https://www.iza.org/)
 - Associate Editor at [*Frontiers in Behavioral Economics* (Health Behaviors)](https://www.frontiersin.org/journals/behavioral-economics/sections/health-behaviors)
-- Guest Teacher at the [LSE](https://www.lse.ac.uk/international-development)
 
 My research is in development economics, with a focus on discrimination, gender, and human capital investments in low-income countries.
 
