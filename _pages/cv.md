@@ -10,7 +10,7 @@ author_profile: true
 ## Current Positions and Affiliations
 
 - **Jan 2024 – present.** Associate Professor of Economics, [Department of Economics](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/economics/), [Royal Holloway University of London](https://www.royalholloway.ac.uk/).
-- **Sep 2025 – present.** Guest Teacher, [Department of International Development](https://www.lse.ac.uk/international-development), [London School of Economics and Political Science](https://www.lse.ac.uk/international-development).
+- **Sep 2025 – Apr 2026.** Guest Teacher, [Department of International Development](https://www.lse.ac.uk/international-development), [London School of Economics and Political Science](https://www.lse.ac.uk/international-development).
 - **Jun 2024 – present.** Associate Editor, [*Frontiers in Behavioral Economics* (Health Behaviors)](https://www.frontiersin.org/journals/behavioral-economics/sections/health-behaviors).
 - **Sep 2023 – present.** Research Associate, [Institute for Fiscal Studies](https://ifs.org.uk/).
 - **Apr 2023 – present.** Research Affiliate, [IZA@LISER](https://www.iza.org/).
