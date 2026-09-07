@@ -18,20 +18,20 @@ author_profile: true
 
 ## Publications
 
-1. [**Leveraging Virtual Contact and Social Networks to Foster Interethnic Harmony**](https://doi.org/10.1093/qje/qjag001) (with [Michael Vlassopoulos](http://www.personal.soton.ac.uk/mv1u06/index.htm) and [Yves Zenou](https://sites.google.com/site/yvesbzenou/home)).<br>
+1. [**Leveraging Virtual Contact and Social Networks to Foster Interethnic Harmony**](https://doi.org/10.1093/qje/qjag001) (with Michael Vlassopoulos and Yves Zenou).<br>
    *The Quarterly Journal of Economics*, 141(2): 1449–1519, 2026.
 
-2. [**Non-WEIRD Preferences**](https://doi.org/10.4337/9781800885370.00008) (with [Smriti Sharma](https://sites.google.com/site/smritiecon/)).<br>
+2. [**Non-WEIRD Preferences**](https://doi.org/10.4337/9781800885370.00008) (with Smriti Sharma).<br>
    In *Handbook of Experimental Development Economics* (eds. Utteeyo Dasgupta and Pushkar Maitra), 2025. [[DOI]]
 
 3. [**Behavioral Consequences of Religious Schooling.**](https://doi.org/10.1016/j.jdeveco.2023.103237) <br>
    *Journal of Development Economics*, 167: 103237, 2024.
 
-4. [**Market Competition and Discrimination**](https://doi.org/10.1016/j.euroecorev.2022.104361)  (with [Michael Vlassopoulos](http://www.personal.soton.ac.uk/mv1u06/index.htm) and [Yves Zenou](https://sites.google.com/site/yvesbzenou/home)).<br>
+4. [**Market Competition and Discrimination**](https://doi.org/10.1016/j.euroecorev.2022.104361)  (with Michael Vlassopoulos and Yves Zenou).<br>
    *European Economic Review*, 152: 104361, 2023.
 
-5. [**Determinants and Dynamics of Food Insecurity During COVID-19 in Rural Bangladesh**](https://doi.org/10.1016/j.foodpol.2021.102066)  (with Firoz Ahmed, [Asad Islam](http://users.monash.edu.au/~asaduli/), [Debayan Pakrashi](http://www.debayanpakrashi.com/), and Tabassum Rahman).<br>
+5. [**Determinants and Dynamics of Food Insecurity During COVID-19 in Rural Bangladesh**](https://doi.org/10.1016/j.foodpol.2021.102066)  (with Firoz Ahmed, Asad Islam, Debayan Pakrashi, and Tabassum Rahman).<br>
    *Food Policy*, 101: 102066, 2021. 
 
-6. [**Competitive Preferences and Ethnicity: Experimental Evidence from Bangladesh**](https://doi.org/10.1093/ej/uez063)  (with [Michael Vlassopoulos](http://www.personal.soton.ac.uk/mv1u06/index.htm)).<br>
+6. [**Competitive Preferences and Ethnicity: Experimental Evidence from Bangladesh**](https://doi.org/10.1093/ej/uez063)  (with Michael Vlassopoulos).<br>
    *The Economic Journal*, 130(627): 793–821, 2020.
