@@ -12,7 +12,7 @@ author_profile: true
 - Economics of Inequality (UG)
 - Economics of Health (PG, 2024)
 
-**[LSE](https://www.lse.ac.uk/)** — 2025–present
+**[LSE](https://www.lse.ac.uk/)** — 2025–2026
 - Economic Development Policy II: Microeconomic Analysis (PG, 2026)
 - Foundations of Applied Econometrics for Economic Development Policy (PG, 2025)
 
