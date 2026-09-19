@@ -8,9 +8,10 @@ author_profile: true
 ## Lecturing
 
 **[Royal Holloway University of London](https://www.royalholloway.ac.uk/)** — 2024–present
-- Dissertation in Economics (UG/PG)
-- Economics of Inequality (UG)
-- Economics of Health (PG, 2024)
+- Topics in Development Economics (UG, 2026-)
+- Dissertation in Economics (UG+PG, 2024-)
+- Economics of Inequality (UG, 2024-2026)
+- Economics of Health (PG, 2024-2025)
 
 **[LSE](https://www.lse.ac.uk/)** — 2025–2026
 - Economic Development Policy II: Microeconomic Analysis (PG, 2026)
