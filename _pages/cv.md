@@ -5,7 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-[**Download full CV (PDF)**]
 
 ## Current Positions and Affiliations
 
