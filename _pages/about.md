@@ -16,7 +16,6 @@ I am also:
 - Research Associate at the [Institute for Fiscal Studies](https://ifs.org.uk/)
 - Invited Researcher at the [J-PAL](https://www.povertyactionlab.org/)
 - Research Affiliate at [IZA@LISER](https://www.iza.org/)
-(https://www.frontiersin.org/journals/behavioral-economics/sections/health-behaviors)
 
 My research is in development economics, with a focus on discrimination, gender, and human capital investments in low-income countries.
 
